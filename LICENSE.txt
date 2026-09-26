@@ -1,0 +1,24 @@
+Vertical Video Converter — free edition licence
+————————————————————————————————————————————————————————————
+
+This package contains original work by aishifu. Where it also contains material
+derived from third-party open-source projects, those parts are listed — with
+their full licence text — in THIRD-PARTY-NOTICES.txt (see that file if present
+in this archive).
+
+You may:
+  - use this in your own work, personal or commercial
+  - modify it and use the modified version in your own work
+
+You may not:
+  - resell it, or redistribute it to third parties as-is or lightly modified
+  - ship it as your own product or service, or bundle it into a multi-tenant offering
+  - remove this licence or the attribution from the files
+
+Scope note: the restrictions above apply to the original portions of this
+package. Third-party portions are provided to you under their own licences
+(see THIRD-PARTY-NOTICES.txt) and those grants cannot be narrowed by this file.
+
+No warranty. Provided "as is"; the author is not liable for any outcome of its use.
+
+Publisher: aishifu  ·  https://aishifu.shop  ·  https://agensi.io/creators/alpha-lay
