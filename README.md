@@ -51,3 +51,10 @@ freely — but do not resell it or pass it off as your own product.
 
 Built by **Alpha Lay**. More tools, and a 1,274-case study of AI video that these methods were tested
 against: <https://aishifu.shop/>
+
+## Official site
+
+This free edition, the research notes behind it, and downloads for every tool in this repository live on the official site:
+
+- **Free downloads:**&#8203; <https://aishifu.shop/downloads/>
+- **Original research & docs:**&#8203; <https://aishifu.shop/>
