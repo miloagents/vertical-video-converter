@@ -38,9 +38,9 @@ scripts. The hosted versions need no setup at all.
 | [Agensi](https://agensi.io/creators/alpha-lay) | the full package, including source files |
 | [Poe](https://poe.com/VerticalVideoLab) | hosted — no install, just talk to it |
 | [PromptBase](https://promptbase.com) | selected tools |
-| [aishifu.shop](https://aishifu.shop/) | free downloads and the research notes behind these tools |
+| [miloagents.shop](https://miloagents.shop/skills/vertical-video-converter/) | this skill's page, plus free episode kits |
 
-The same free edition is also available as a zip at [aishifu.shop/downloads](https://aishifu.shop/downloads/).
+More about this skill: <https://miloagents.shop/skills/vertical-video-converter/>
 
 ## Licence
 
@@ -54,7 +54,8 @@ against: <https://aishifu.shop/>
 
 ## Official site
 
-This free edition, the research notes behind it, and downloads for every tool in this repository live on the official site:
+This free edition, the page for this skill, and the free episode kits live on the official site:
 
-- **Free downloads:**&#8203; <https://aishifu.shop/downloads/>
-- **Original research & docs:**&#8203; <https://aishifu.shop/>
+- **This skill:** <https://miloagents.shop/skills/vertical-video-converter/>
+- **Free episode kits:** <https://miloagents.shop/kits/>
+- **More from Milo:** <https://github.com/miloagents>
